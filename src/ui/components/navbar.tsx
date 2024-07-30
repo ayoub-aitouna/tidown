@@ -3,7 +3,7 @@ import React from "react";
 
 const Navbar = () => {
 	return (
-		<div className='fixed inset-0 container mx-auto my-8 z-30 flex flex-row justify-between items-center px-16 h-14 '>
+		<div className='fixed inset-0 bg-black-950 container mx-auto py-8 z-30 flex flex-row justify-between items-center px-16 h-14 '>
 			<a href='#home'>
 				<div className='flex flex-row gap-2 justify-center items-center'>
 					<Image
