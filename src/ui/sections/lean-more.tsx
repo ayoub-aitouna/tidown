@@ -37,7 +37,7 @@ const LeanMore = () => {
               2. Paste the video URL
             </h4>
             <p className="text-gray-400 ms-3">
-              Paste the video URL to the input box and click the "Download"
+              Paste the video URL to the input box and click the &quot;Download&quot;
               button.
             </p>
           </li>
@@ -46,7 +46,7 @@ const LeanMore = () => {
               3. Download the Video or Audio
             </h4>
             <p className="text-gray-400 ms-3">
-              Click the "Download" buttons to save the video or audio.
+              Click the &quot;Download&quot; buttons to save the video or audio.
             </p>
           </li>
         </ol>
@@ -69,7 +69,7 @@ const LeanMore = () => {
             <span className="text-ff833f">✓</span>
             <span className="ml-2 text-gray-300">
               No watermark for better quality, which most of the tools out there
-              can't.
+              cant.
             </span>
           </li>
           <li className="flex items-center">
